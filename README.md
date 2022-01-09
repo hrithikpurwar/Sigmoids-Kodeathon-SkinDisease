@@ -1,4 +1,4 @@
-# Sigmoids-Kodeathon-SkinDisease
+# HAut - K!ode-a-thon - Sigmoids
 A skin disease classification Android App integrated with TensorFlow Lite CNN model.
 
 ## Problem Statement and Solution
@@ -74,19 +74,17 @@ We made an Android App using Android Studio (JAVA and XML).
 
 ## UI/UX Mockup
 <img src="https://user-images.githubusercontent.com/72293452/148665429-300a03b2-3ac8-4b06-97bf-714b53bc81d5.png" width="600">
+<div>
 <img src="https://user-images.githubusercontent.com/72293452/148665431-b7e92476-ca98-4db3-bd98-0bd87365c3a2.jpeg" width="200">
 <img src="https://user-images.githubusercontent.com/72293452/148665386-9a205400-f022-4cdc-9a25-46344e5e829b.png" width="200">
 <img src="https://user-images.githubusercontent.com/72293452/148665389-b7841957-c153-464b-828f-9d0d5866abb0.png" width="200">
+</div>
+<div>
 <img src="https://user-images.githubusercontent.com/72293452/148665392-b6ec6fef-be35-4dc4-9fae-d7d7c86d9a51.png" width="200">
 <img src="https://user-images.githubusercontent.com/72293452/148665398-d4398dcd-adfd-425f-936d-e643a9c45189.png" width="200">
-![Screenshot 2022-01-09 at 6 46 39 AM](https://user-images.githubusercontent.com/72293452/148665429-300a03b2-3ac8-4b06-97bf-714b53bc81d5.png)
-![WhatsApp Image 2022-01-09 at 5 15 34 AM](https://user-images.githubusercontent.com/72293452/148665431-b7e92476-ca98-4db3-bd98-0bd87365c3a2.jpeg)
-![Google Pixel 2 XL - 1 (2)](https://user-images.githubusercontent.com/72293452/148665386-9a205400-f022-4cdc-9a25-46344e5e829b.png)
-![Google Pixel 2 XL - 2](https://user-images.githubusercontent.com/72293452/148665389-b7841957-c153-464b-828f-9d0d5866abb0.png)
-![Google Pixel 2 XL - 4](https://user-images.githubusercontent.com/72293452/148665392-b6ec6fef-be35-4dc4-9fae-d7d7c86d9a51.png)
-![Google Pixel 2 XL - 6](https://user-images.githubusercontent.com/72293452/148665398-d4398dcd-adfd-425f-936d-e643a9c45189.png)
-![Google Pixel 2 XL - 5](https://user-images.githubusercontent.com/72293452/148665401-3c6190ff-bea4-4c66-9286-a40c149ab3b6.png)
-![Google Pixel 2 XL - 7](https://user-images.githubusercontent.com/72293452/148665403-d10ef9af-c53c-488c-a137-9a5fc8e516fb.png)
+<img src="https://user-images.githubusercontent.com/72293452/148665401-3c6190ff-bea4-4c66-9286-a40c149ab3b6.png" width="200">
+</div>
+<img src="https://user-images.githubusercontent.com/72293452/148665403-d10ef9af-c53c-488c-a137-9a5fc8e516fb.png" width="200">
 
 
 
