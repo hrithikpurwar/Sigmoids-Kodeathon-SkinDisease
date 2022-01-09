@@ -1,6 +1,6 @@
 # HAut - K!ode-a-thon - Sigmoids
 A skin disease classification Android App integrated with TensorFlow Lite CNN model.
-YT Video Link -
+YT Video Link - https://youtu.be/AywpniHHkow
 PPT Link - https://docs.google.com/presentation/d/1f2KsHHPzNQ4EWbhxK4AXtEhiBynJodBSxrFBUnSnml8/edit?usp=sharing
 
 ## Problem Statement and Solution
@@ -92,7 +92,7 @@ We made an Android App using Android Studio (JAVA and XML).
 
 ## Demo
 
-YT Video Link -
+YT Video Link - https://youtu.be/AywpniHHkow
 PPT Link - https://docs.google.com/presentation/d/1f2KsHHPzNQ4EWbhxK4AXtEhiBynJodBSxrFBUnSnml8/edit?usp=sharing
 
 ## Developers
