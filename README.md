@@ -2,6 +2,7 @@
 A skin disease classification Android App integrated with TensorFlow Lite CNN model. <br>
 - YT Video Link - https://youtu.be/AywpniHHkow 
 - PPT Link - https://docs.google.com/presentation/d/1f2KsHHPzNQ4EWbhxK4AXtEhiBynJodBSxrFBUnSnml8/edit?usp=sharing
+- UI/UX Link - https://www.figma.com/file/DEGMQdK2Zh2Hi8CKgXYcV7/Sigmoids?node-id=0%3A1
 
 ## Problem Statement and Solution
 As we all know that the world is permanently moving in online mode by all possible ways and after the end of this pandemic people will prefer 'Go online' in every walk of life but this new era comes with many problems which need to be solved. 
@@ -75,6 +76,7 @@ We made an Android App using Android Studio (JAVA and XML).
 4. Recommend Skin Specialists
 
 ## UI/UX Mockup
+- Link https://www.figma.com/file/DEGMQdK2Zh2Hi8CKgXYcV7/Sigmoids?node-id=0%3A1
 <img src="https://user-images.githubusercontent.com/72293452/148665429-300a03b2-3ac8-4b06-97bf-714b53bc81d5.png" width="600">
 <div>
 <img src="https://user-images.githubusercontent.com/72293452/148665431-b7e92476-ca98-4db3-bd98-0bd87365c3a2.jpeg" width="200">
