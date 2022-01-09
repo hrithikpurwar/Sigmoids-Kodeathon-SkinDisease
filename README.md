@@ -97,8 +97,8 @@ We made an Android App using Android Studio (JAVA and XML).
 
 ## Developers
 
-Hrithik Purwar - https://github.com/hrithikpurwar/
-Raehat Singh Nanda - https://github.com/raehat/
+- Hrithik Purwar - https://github.com/hrithikpurwar/
+- Raehat Singh Nanda - https://github.com/raehat/
 
 
 
